@@ -4,6 +4,7 @@
 --- PREFIX: tiny_jokers
 --- MOD_AUTHOR: [Zamos]
 --- MOD_DESCRIPTION: Turns the big Jimbos into tiny Timbos.
+--- PRIORITY: -333
 --- VERSION: 0.6.0
 --- DEPENDENCIES: [malverk]
 
