@@ -5,7 +5,7 @@
 --- MOD_AUTHOR: [Zamos]
 --- MOD_DESCRIPTION: Turns the big Jimbos into tiny Timbos.
 --- PRIORITY: -333
---- VERSION: 0.6.0
+--- VERSION: 0.7.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture({
